@@ -2,7 +2,7 @@
 using BinaryTreeHelper;
 using System.Collections.Generic;
 
-namespace _5._NodeDepths
+namespace _5.NodeDepths
 {
     
     class Program

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using BinaryTreeHelper;
 
-namespace _5.DepthFirstSearch
+namespace _6.DepthFirstSearch
 {
     
 
