@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Validate_Subsequence", "2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.FindClosestValueInBinarySearchTree", "3.FindClosestValueInBinarySearchTree\3.FindClosestValueInBinarySearchTree.csproj", "{5E5A6249-A045-4599-8C73-9094827F3C3F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.BranchSums", "4.BranchSums\4.BranchSums.csproj", "{FA65ACDB-094E-4F83-A7CA-23E147705A1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.BranchSums", "4.BranchSums\4.BranchSums.csproj", "{FA65ACDB-094E-4F83-A7CA-23E147705A1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. NodeDepths", "5. NodeDepths\5. NodeDepths.csproj", "{57969454-7212-418E-81D3-CAB0C6C92BE4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FA65ACDB-094E-4F83-A7CA-23E147705A1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA65ACDB-094E-4F83-A7CA-23E147705A1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA65ACDB-094E-4F83-A7CA-23E147705A1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57969454-7212-418E-81D3-CAB0C6C92BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57969454-7212-418E-81D3-CAB0C6C92BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57969454-7212-418E-81D3-CAB0C6C92BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57969454-7212-418E-81D3-CAB0C6C92BE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
