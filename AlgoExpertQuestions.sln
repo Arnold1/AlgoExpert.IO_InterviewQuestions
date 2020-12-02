@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.FindClosestValueInBinaryS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.BranchSums", "4.BranchSums\4.BranchSums.csproj", "{FA65ACDB-094E-4F83-A7CA-23E147705A1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. NodeDepths", "5. NodeDepths\5. NodeDepths.csproj", "{57969454-7212-418E-81D3-CAB0C6C92BE4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.NodeDepths", "5. NodeDepths\5.NodeDepths.csproj", "{57969454-7212-418E-81D3-CAB0C6C92BE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.DepthFirstSearch", "5.DepthFirstSearch\5.DepthFirstSearch.csproj", "{A574D27D-649C-4892-89A3-45BF5D50B2BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.DepthFirstSearch", "5.DepthFirstSearch\6.DepthFirstSearch.csproj", "{A574D27D-649C-4892-89A3-45BF5D50B2BE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTreeHelper", "BinaryTreeHelper\BinaryTreeHelper.csproj", "{74F0D7C3-D6CC-4C20-8695-9C2BED90052A}"
 EndProject
