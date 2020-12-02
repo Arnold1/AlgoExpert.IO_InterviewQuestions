@@ -6,4 +6,8 @@
     <RootNamespace>_3.FindClosestValueInBinarySearchTree</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BinaryTreeHelper\BinaryTreeHelper.csproj" />
+  </ItemGroup>
+
 </Project>

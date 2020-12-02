@@ -1,28 +1,15 @@
-﻿using System;
+﻿using BinaryTreeHelper;
+using System;
 using System.Collections.Generic;
 
 namespace _4.BranchSums
 {
 
-	public class BinaryTree
-	{
-		public int value;
-		public BinaryTree left;
-		public BinaryTree right;
-
-		public BinaryTree(int value)
-		{
-			this.value = value;
-			this.left = null;
-			this.right = null;
-		}
-	}
-
 	class Program
     {
         static void Main(string[] args)
         {
-			BinaryTree tree = CreateTree();
+			BinaryTree tree = BinaryTree.CreateTree();
 			List<int> totals = BranchSums(tree);
             foreach (var total in totals)
             {
@@ -60,15 +47,5 @@ namespace _4.BranchSums
 			CalculateBranchSums(node.right, newRunningSum, BranchSums);
 
         }
-
-
-		static BinaryTree CreateTree()
-		{
-			BinaryTree output = new BinaryTree(10);
-			output.left = new BinaryTree(5) { left = new BinaryTree(3), right = new BinaryTree(4) };
-			output.right = new BinaryTree(22) { left = new BinaryTree(20), right = new BinaryTree(29) };
-			return output;
-
-		}
 	}
 }

@@ -6,4 +6,8 @@
     <RootNamespace>_5._NodeDepths</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BinaryTreeHelper\BinaryTreeHelper.csproj" />
+  </ItemGroup>
+
 </Project>

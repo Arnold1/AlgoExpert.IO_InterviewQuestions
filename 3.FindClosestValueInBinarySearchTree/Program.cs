@@ -1,31 +1,21 @@
-﻿using System;
+﻿using BinaryTreeHelper;
+using System;
 
 namespace _3.FindClosestValueInBinarySearchTree
 {
-    public class BST
-    {
-        public int value;
-        public BST left;
-        public BST right;
-
-        public BST(int value)
-        {
-            this.value = value;
-        }
-    }
-
+    
     class Program
     {
         static void Main(string[] args)
         {
-            BST tree = CreateTree();
+            BinaryTree tree = BinaryTree.CreateTree();
             int target = 2;
             Console.WriteLine(FindClosestValueInBst(tree, target, tree.value));
             Console.ReadLine();
 
         }
 
-        static int FindClosestValueInBst(BST tree, int target, int closest)
+        static int FindClosestValueInBst(BinaryTree tree, int target, int closest)
         {
             if (Math.Abs(target - closest) > Math.Abs(target - tree.value))
             {
@@ -44,14 +34,6 @@ namespace _3.FindClosestValueInBinarySearchTree
             {
                 return closest;
             }
-        }
-
-        static BST CreateTree()
-        {
-            BST output = new BST(10);
-            output.left = new BST(5) { left = new BST(3), right = new BST(4) };
-            output.right = new BST(22) { left = new BST(20), right = new BST(29) };
-            return output;
-        }
+        }       
     }
 }

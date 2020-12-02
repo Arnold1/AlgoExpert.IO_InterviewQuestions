@@ -1,28 +1,15 @@
 ﻿using System;
-using System.Collections;
+using BinaryTreeHelper;
 using System.Collections.Generic;
 
 namespace _5._NodeDepths
 {
-    public class BinaryTree
-    {
-        public int value;
-        public BinaryTree left;
-        public BinaryTree right;
-
-        public BinaryTree(int value)
-        {
-            this.value = value;
-            this.left = null;
-            this.right = null;
-        }
-    }
-
+    
     class Program
     {
         public static void Main(string[] args)
         {
-            BinaryTree tree = CreateTree();
+            BinaryTree tree = BinaryTree.CreateTree();
 
             Console.WriteLine($"(Iterative Method) The node depth is {IterativeMethod(tree)}");
             Console.WriteLine($"(Recursive Method) The node depth is {RecursiveMethod(tree)}");
@@ -68,15 +55,6 @@ namespace _5._NodeDepths
 
             return sumOfDepths;
 
-        }
-
-
-        public static BinaryTree CreateTree()
-        {
-            BinaryTree output = new BinaryTree(10);
-            output.left = new BinaryTree(5) { left = new BinaryTree(3), right = new BinaryTree(4) };
-            output.right = new BinaryTree(22) { left = new BinaryTree(20), right = new BinaryTree(29) };
-            return output;
-        }
+        }       
     }
 }
