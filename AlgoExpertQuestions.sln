@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.InsertionSort", "12.Inse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.SelectionSort", "13.SelectionSort\13.SelectionSort.csproj", "{F2F8221F-3FDA-4D88-9C13-2908516F523C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.PalindromeCheck", "14.PalindromeCheck\14.PalindromeCheck.csproj", "{77B9B188-0389-4FC5-9B65-01992014F41E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{F2F8221F-3FDA-4D88-9C13-2908516F523C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2F8221F-3FDA-4D88-9C13-2908516F523C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2F8221F-3FDA-4D88-9C13-2908516F523C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B9B188-0389-4FC5-9B65-01992014F41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B9B188-0389-4FC5-9B65-01992014F41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B9B188-0389-4FC5-9B65-01992014F41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B9B188-0389-4FC5-9B65-01992014F41E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
