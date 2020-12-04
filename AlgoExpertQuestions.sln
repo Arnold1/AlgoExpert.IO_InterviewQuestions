@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.SelectionSort", "13.Sele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.PalindromeCheck", "14.PalindromeCheck\14.PalindromeCheck.csproj", "{77B9B188-0389-4FC5-9B65-01992014F41E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.CeasarCypherEncryptor", "15.CeasarCypherEncryptor\15.CeasarCypherEncryptor.csproj", "{587C0737-5FFE-408D-9F00-4F8F88A51237}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{77B9B188-0389-4FC5-9B65-01992014F41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77B9B188-0389-4FC5-9B65-01992014F41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77B9B188-0389-4FC5-9B65-01992014F41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{587C0737-5FFE-408D-9F00-4F8F88A51237}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{587C0737-5FFE-408D-9F00-4F8F88A51237}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{587C0737-5FFE-408D-9F00-4F8F88A51237}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{587C0737-5FFE-408D-9F00-4F8F88A51237}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
