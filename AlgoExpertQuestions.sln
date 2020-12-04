@@ -25,15 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9.BinarySearch", "9.BinaryS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.FindThreeLargestNumbers", "10.FindThreeLargestNumbers\10.FindThreeLargestNumbers.csproj", "{2DF23ABD-F847-4CC4-BAD0-29250E1BB94B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.BubbleSort", "11.BubbleSort\11.BubbleSort.csproj", "{80F3B502-6064-47C8-BF2F-E4AEAC2F6640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.BubbleSort", "11.BubbleSort\11.BubbleSort.csproj", "{80F3B502-6064-47C8-BF2F-E4AEAC2F6640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.InsertionSort", "12.InsertionSort\12.InsertionSort.csproj", "{3AF5C8EF-4FB0-4D73-8A97-D19BA44CF447}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.InsertionSort", "12.InsertionSort\12.InsertionSort.csproj", "{3AF5C8EF-4FB0-4D73-8A97-D19BA44CF447}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.SelectionSort", "13.SelectionSort\13.SelectionSort.csproj", "{F2F8221F-3FDA-4D88-9C13-2908516F523C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.SelectionSort", "13.SelectionSort\13.SelectionSort.csproj", "{F2F8221F-3FDA-4D88-9C13-2908516F523C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.PalindromeCheck", "14.PalindromeCheck\14.PalindromeCheck.csproj", "{77B9B188-0389-4FC5-9B65-01992014F41E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.PalindromeCheck", "14.PalindromeCheck\14.PalindromeCheck.csproj", "{77B9B188-0389-4FC5-9B65-01992014F41E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.CeasarCypherEncryptor", "15.CeasarCypherEncryptor\15.CeasarCypherEncryptor.csproj", "{587C0737-5FFE-408D-9F00-4F8F88A51237}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.CeasarCypherEncryptor", "15.CeasarCypherEncryptor\15.CeasarCypherEncryptor.csproj", "{587C0737-5FFE-408D-9F00-4F8F88A51237}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.RunLengthEncoding", "16.RunLengthEncoding\16.RunLengthEncoding.csproj", "{0DF7A763-DC7B-40C4-99C0-82CB4E5A034F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{587C0737-5FFE-408D-9F00-4F8F88A51237}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{587C0737-5FFE-408D-9F00-4F8F88A51237}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{587C0737-5FFE-408D-9F00-4F8F88A51237}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DF7A763-DC7B-40C4-99C0-82CB4E5A034F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF7A763-DC7B-40C4-99C0-82CB4E5A034F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF7A763-DC7B-40C4-99C0-82CB4E5A034F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF7A763-DC7B-40C4-99C0-82CB4E5A034F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
