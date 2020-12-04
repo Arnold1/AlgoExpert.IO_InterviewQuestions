@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.FindThreeLargestNumbers"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.BubbleSort", "11.BubbleSort\11.BubbleSort.csproj", "{80F3B502-6064-47C8-BF2F-E4AEAC2F6640}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.InsertionSort", "12.InsertionSort\12.InsertionSort.csproj", "{3AF5C8EF-4FB0-4D73-8A97-D19BA44CF447}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{80F3B502-6064-47C8-BF2F-E4AEAC2F6640}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80F3B502-6064-47C8-BF2F-E4AEAC2F6640}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80F3B502-6064-47C8-BF2F-E4AEAC2F6640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF5C8EF-4FB0-4D73-8A97-D19BA44CF447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF5C8EF-4FB0-4D73-8A97-D19BA44CF447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF5C8EF-4FB0-4D73-8A97-D19BA44CF447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF5C8EF-4FB0-4D73-8A97-D19BA44CF447}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
