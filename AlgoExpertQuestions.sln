@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.SmallestDifference", "18
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.MoveElementToEnd", "19.MoveElementToEnd\19.MoveElementToEnd.csproj", "{57C37AF3-F466-4B55-9D86-D1BAE275D953}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.MonotonicArray", "20.MonotonicArray\20.MonotonicArray.csproj", "{DB426ACB-CCEF-40CD-B995-9E48C69A03F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{57C37AF3-F466-4B55-9D86-D1BAE275D953}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57C37AF3-F466-4B55-9D86-D1BAE275D953}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57C37AF3-F466-4B55-9D86-D1BAE275D953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB426ACB-CCEF-40CD-B995-9E48C69A03F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB426ACB-CCEF-40CD-B995-9E48C69A03F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB426ACB-CCEF-40CD-B995-9E48C69A03F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB426ACB-CCEF-40CD-B995-9E48C69A03F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
