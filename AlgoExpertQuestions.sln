@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.ThreeNumberSum", "17.Thr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.SmallestDifference", "18.SmallestDifference\18.SmallestDifference.csproj", "{A6D95250-F611-4D33-A332-6EEC00F9B85A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.MoveElementToEnd", "19.MoveElementToEnd\19.MoveElementToEnd.csproj", "{57C37AF3-F466-4B55-9D86-D1BAE275D953}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{A6D95250-F611-4D33-A332-6EEC00F9B85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6D95250-F611-4D33-A332-6EEC00F9B85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6D95250-F611-4D33-A332-6EEC00F9B85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C37AF3-F466-4B55-9D86-D1BAE275D953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C37AF3-F466-4B55-9D86-D1BAE275D953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C37AF3-F466-4B55-9D86-D1BAE275D953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C37AF3-F466-4B55-9D86-D1BAE275D953}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
