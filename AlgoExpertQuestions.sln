@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.LongestPeak", "22.Longes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.ArrayOfProducts", "23.ArrayOfProducts\23.ArrayOfProducts.csproj", "{4236F1A7-BAA0-4178-A7C4-7A4C157CA2F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.BinarySearchTreeConstruction", "24.BinarySearchTreeConstruction\24.BinarySearchTreeConstruction.csproj", "{047FB5F6-A3C0-4356-B973-30EB0BE36545}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{4236F1A7-BAA0-4178-A7C4-7A4C157CA2F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4236F1A7-BAA0-4178-A7C4-7A4C157CA2F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4236F1A7-BAA0-4178-A7C4-7A4C157CA2F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047FB5F6-A3C0-4356-B973-30EB0BE36545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047FB5F6-A3C0-4356-B973-30EB0BE36545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047FB5F6-A3C0-4356-B973-30EB0BE36545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047FB5F6-A3C0-4356-B973-30EB0BE36545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
