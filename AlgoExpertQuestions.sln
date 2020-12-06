@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.MoveElementToEnd", "19.M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.MonotonicArray", "20.MonotonicArray\20.MonotonicArray.csproj", "{DB426ACB-CCEF-40CD-B995-9E48C69A03F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.SpiralTraverse", "21.SpiralTraverse\21.SpiralTraverse.csproj", "{3D05F658-28AA-4CB5-B5EC-E805014362CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{DB426ACB-CCEF-40CD-B995-9E48C69A03F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB426ACB-CCEF-40CD-B995-9E48C69A03F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB426ACB-CCEF-40CD-B995-9E48C69A03F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D05F658-28AA-4CB5-B5EC-E805014362CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D05F658-28AA-4CB5-B5EC-E805014362CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D05F658-28AA-4CB5-B5EC-E805014362CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D05F658-28AA-4CB5-B5EC-E805014362CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
