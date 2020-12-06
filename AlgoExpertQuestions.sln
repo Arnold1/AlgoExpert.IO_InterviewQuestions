@@ -47,11 +47,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.MonotonicArray", "20.Mon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21.SpiralTraverse", "21.SpiralTraverse\21.SpiralTraverse.csproj", "{3D05F658-28AA-4CB5-B5EC-E805014362CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.LongestPeak", "22.LongestPeak\22.LongestPeak.csproj", "{5DBEC9AC-E38B-4AFB-BF83-A6D3B35DCC20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22.LongestPeak", "22.LongestPeak\22.LongestPeak.csproj", "{5DBEC9AC-E38B-4AFB-BF83-A6D3B35DCC20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23.ArrayOfProducts", "23.ArrayOfProducts\23.ArrayOfProducts.csproj", "{4236F1A7-BAA0-4178-A7C4-7A4C157CA2F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23.ArrayOfProducts", "23.ArrayOfProducts\23.ArrayOfProducts.csproj", "{4236F1A7-BAA0-4178-A7C4-7A4C157CA2F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24.BinarySearchTreeConstruction", "24.BinarySearchTreeConstruction\24.BinarySearchTreeConstruction.csproj", "{047FB5F6-A3C0-4356-B973-30EB0BE36545}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24.BinarySearchTreeConstruction", "24.BinarySearchTreeConstruction\24.BinarySearchTreeConstruction.csproj", "{047FB5F6-A3C0-4356-B973-30EB0BE36545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25.ValidateBinarySearchTree", "25.ValidateBinarySearchTree\25.ValidateBinarySearchTree.csproj", "{22E281DD-06FB-4600-981C-C1578EE6E5F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{047FB5F6-A3C0-4356-B973-30EB0BE36545}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{047FB5F6-A3C0-4356-B973-30EB0BE36545}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{047FB5F6-A3C0-4356-B973-30EB0BE36545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22E281DD-06FB-4600-981C-C1578EE6E5F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22E281DD-06FB-4600-981C-C1578EE6E5F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22E281DD-06FB-4600-981C-C1578EE6E5F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22E281DD-06FB-4600-981C-C1578EE6E5F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
