@@ -6,4 +6,8 @@
     <RootNamespace>_24.BinarySearchTreeConstruction</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BinaryTreeHelper\BinaryTreeHelper.csproj" />
+  </ItemGroup>
+
 </Project>
