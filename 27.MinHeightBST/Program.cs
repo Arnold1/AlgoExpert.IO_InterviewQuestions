@@ -16,7 +16,7 @@ namespace _27.MinHeightBST
         
         public static BinaryTree ConstructMinHeightBST(List<int> array, BinaryTree tree, int startIdx, int endIdx)
         {
-            // Time = O(nlog(n)) where n is the length of the array
+            // Time = O(n log(n)) where n is the length of the array
             // Space  = O(n)
 
             if (endIdx < startIdx)

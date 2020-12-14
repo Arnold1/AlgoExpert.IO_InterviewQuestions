@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25.ValidateBinarySearchTree
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26.BSTTraversal", "26.BSTTraversal\26.BSTTraversal.csproj", "{87F380DB-93DA-4AD9-AE8B-9FE2ADD0475B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.MinHeightBST", "27.MinHeightBST\27.MinHeightBST.csproj", "{EBBA512F-2EA3-4FFC-9DF1-3514B3FF23B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27.MinHeightBST", "27.MinHeightBST\27.MinHeightBST.csproj", "{EBBA512F-2EA3-4FFC-9DF1-3514B3FF23B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28.InvertBinaryTree", "28.InvertBinaryTree\28.InvertBinaryTree.csproj", "{5F4D08D1-79A7-4B77-955E-AD1A7B5DEA03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{EBBA512F-2EA3-4FFC-9DF1-3514B3FF23B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBBA512F-2EA3-4FFC-9DF1-3514B3FF23B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBBA512F-2EA3-4FFC-9DF1-3514B3FF23B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F4D08D1-79A7-4B77-955E-AD1A7B5DEA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4D08D1-79A7-4B77-955E-AD1A7B5DEA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4D08D1-79A7-4B77-955E-AD1A7B5DEA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4D08D1-79A7-4B77-955E-AD1A7B5DEA03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
