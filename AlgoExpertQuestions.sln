@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "32.LevenshteinDistance", "3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33.MinNumberOfCoinsForChange", "33.MinNumberOfCoinsForChange\33.MinNumberOfCoinsForChange.csproj", "{2E70ADE5-BECD-46EF-A8DE-D89A15D2257C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34.KadanesAlgorithm", "34.KadanesAlgorithm\34.KadanesAlgorithm.csproj", "{8A0AA598-3734-488C-8DD6-DC86B98EEDCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34.KadanesAlgorithm", "34.KadanesAlgorithm\34.KadanesAlgorithm.csproj", "{8A0AA598-3734-488C-8DD6-DC86B98EEDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35.SingleCycleCheck", "35.SingleCycleCheck\35.SingleCycleCheck.csproj", "{89800F81-0D9B-49E4-B064-272F8F693A89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{8A0AA598-3734-488C-8DD6-DC86B98EEDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A0AA598-3734-488C-8DD6-DC86B98EEDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A0AA598-3734-488C-8DD6-DC86B98EEDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89800F81-0D9B-49E4-B064-272F8F693A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89800F81-0D9B-49E4-B064-272F8F693A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89800F81-0D9B-49E4-B064-272F8F693A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89800F81-0D9B-49E4-B064-272F8F693A89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
