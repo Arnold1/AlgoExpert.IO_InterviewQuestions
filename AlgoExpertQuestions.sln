@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35.SingleCycleCheck", "35.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36.BreadthFirstSearch", "36.BreadthFirstSearch\36.BreadthFirstSearch.csproj", "{DE764A17-A87D-4762-AC66-71944B710FC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "37. RiverSizes", "37. RiverSizes\37. RiverSizes.csproj", "{FE0D776C-C71D-459E-B5E6-69A7A3B31008}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{DE764A17-A87D-4762-AC66-71944B710FC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE764A17-A87D-4762-AC66-71944B710FC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE764A17-A87D-4762-AC66-71944B710FC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0D776C-C71D-459E-B5E6-69A7A3B31008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0D776C-C71D-459E-B5E6-69A7A3B31008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0D776C-C71D-459E-B5E6-69A7A3B31008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0D776C-C71D-459E-B5E6-69A7A3B31008}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
