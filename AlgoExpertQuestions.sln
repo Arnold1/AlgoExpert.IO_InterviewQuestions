@@ -79,7 +79,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "36.BreadthFirstSearch", "36
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "37. RiverSizes", "37. RiverSizes\37. RiverSizes.csproj", "{FE0D776C-C71D-459E-B5E6-69A7A3B31008}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38.YoungestCommonAncestor", "38.YoungestCommonAncestor\38.YoungestCommonAncestor.csproj", "{38A61757-FFAA-4DD7-840B-3084B28893F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "38.YoungestCommonAncestor", "38.YoungestCommonAncestor\38.YoungestCommonAncestor.csproj", "{38A61757-FFAA-4DD7-840B-3084B28893F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "39.MinHeapConstruction", "39.MinHeapConstruction\39.MinHeapConstruction.csproj", "{830CA6BF-F305-4C66-9E78-17DBDF5C12A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{38A61757-FFAA-4DD7-840B-3084B28893F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38A61757-FFAA-4DD7-840B-3084B28893F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38A61757-FFAA-4DD7-840B-3084B28893F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830CA6BF-F305-4C66-9E78-17DBDF5C12A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830CA6BF-F305-4C66-9E78-17DBDF5C12A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830CA6BF-F305-4C66-9E78-17DBDF5C12A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830CA6BF-F305-4C66-9E78-17DBDF5C12A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
